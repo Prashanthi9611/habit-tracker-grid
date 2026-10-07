@@ -1,1 +1,1 @@
-A collaborative habit tracker built with React.js and Supabase, featuring shared accountability, daily habit completion tracking, progress monitoring, and an interactive habit grid.
+A simple habit tracker grid for tracking daily habits, monitoring progress, and building consistency with instant completion checkboxes.
